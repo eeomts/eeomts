@@ -62,7 +62,9 @@ Gosto de entender como as coisas funcionam por trás, escrever código organizad
   </a>
 </div>
 
+###
 
+![GitHub Streak](https://streak-stats.demolab.com?user=eeomts&theme=dark&hide_border=true&mode=weekly)
 
 ###
 
