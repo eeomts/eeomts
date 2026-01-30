@@ -68,7 +68,7 @@ Gosto de entender como as coisas funcionam por trás, escrever código organizad
   <img src="https://visitor-badge.laobi.icu/badge?page_id=eeomts.eeomts&left_color=blue"  />
 </div>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=eeomts&theme=dark&hide_border=true&mode=weekly)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eeomts&layout=compact&theme=dark)
 
 
 ###
