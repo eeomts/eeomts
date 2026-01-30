@@ -58,6 +58,7 @@ Gosto de entender como as coisas funcionam por trás, escrever código organizad
 
 ###
 
+
 <div align="center">
   <a href="https://www.instagram.com/olvmateuss" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
@@ -67,9 +68,8 @@ Gosto de entender como as coisas funcionam por trás, escrever código organizad
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=eeomts.eeomts&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=eeomts.eeomts&left_color=blue"  />
 </div>
-
 ###
 
 <br clear="both">
