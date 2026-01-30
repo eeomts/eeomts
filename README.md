@@ -70,6 +70,7 @@ Gosto de entender como as coisas funcionam por trás, escrever código organizad
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=eeomts.eeomts&left_color=blue"  />
 </div>
+
 ###
 
 <br clear="both">
