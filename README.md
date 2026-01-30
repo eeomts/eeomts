@@ -70,8 +70,6 @@ Gosto de entender como as coisas funcionam por trás, escrever código organizad
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/eeomts/eeomts/output/snake.svg" alt="Snake animation" />
 
 
