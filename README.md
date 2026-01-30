@@ -5,7 +5,7 @@
 ###
 
 
-<div align="center">
+<div align="left">
 
 <h3>👋 Sobre mim</h3>
 
@@ -13,17 +13,17 @@
 Sou desenvolvedor <strong>Web Back-End</strong>, estudante de <strong>Sistemas de Informação na UFU</strong> e trabalho com desenvolvimento web há cerca de <strong>2 anos</strong>.
 </p>
 
-<p>
+<p align="left">
 Atuo principalmente com <strong>PHP</strong>, criando e mantendo aplicações com <strong>Laravel</strong> e <strong>CakePHP</strong>, além de trabalhar bastante com <strong>MySQL</strong> no dia a dia.
 Já desenvolvi sistemas de autenticação, <strong>APIs</strong>, painéis administrativos e funcionalidades focadas em resolver problemas reais.
 </p>
 
-<p>
+<p align="left" >
 Tenho boa base em <strong>JavaScript</strong>, <strong>jQuery</strong>, <strong>Bootstrap</strong> e <strong>CSS</strong>, o que me permite transitar bem entre back-end e front-end quando necessário.
 Utilizo <strong>Git</strong> constantemente no fluxo de desenvolvimento, tanto para controle de versões quanto para trabalho em equipe, e <strong>npm</strong> para gerenciamento de dependências.
 </p>
 
-<p>
+<p align="left">
 Gosto de entender como as coisas funcionam por trás, escrever código organizado e buscar evoluir tecnicamente como desenvolvedor.
 </p>
 
