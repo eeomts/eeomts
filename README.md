@@ -68,6 +68,9 @@ Gosto de entender como as coisas funcionam por trás, escrever código organizad
   <img src="https://visitor-badge.laobi.icu/badge?page_id=eeomts.eeomts&left_color=blue"  />
 </div>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=eeomts&theme=dark" />
+</p>
 ###
 
 <img src="https://raw.githubusercontent.com/eeomts/eeomts/output/snake.svg" alt="Snake animation" />
