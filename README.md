@@ -62,17 +62,16 @@ Gosto de entender como as coisas funcionam por trás, escrever código organizad
   </a>
 </div>
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=eeomts.eeomts&left_color=blue"  />
-</div>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eeomts&layout=compact&theme=dark)
 
 
 ###
 
 <img src="https://raw.githubusercontent.com/eeomts/eeomts/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=eeomts.eeomts&left_color=blue"  />
+</div>
 
 
