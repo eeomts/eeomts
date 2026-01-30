@@ -64,9 +64,6 @@ Gosto de entender como as coisas funcionam por trás, escrever código organizad
 
 ###
 
-![GitHub Streak](https://streak-stats.demolab.com?user=eeomts&theme=dark&hide_border=true&mode=weekly)
-
-###
 
 <img src="https://raw.githubusercontent.com/eeomts/eeomts/output/snake.svg" alt="Snake animation" />
 
