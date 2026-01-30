@@ -69,8 +69,10 @@ Gosto de entender como as coisas funcionam por trás, escrever código organizad
 </div>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=eeomts&theme=dark" />
+  <img src="https://streak-stats.demolab.com?user=eeomts&theme=dark&hide_border=true&mode=weekly" width="400" />
 </p>
+
+
 ###
 
 <img src="https://raw.githubusercontent.com/eeomts/eeomts/output/snake.svg" alt="Snake animation" />
