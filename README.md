@@ -4,7 +4,6 @@
 
 ###
 
-<br clear="both">
 
 <h6 align="center">Back-end Web developer</h6>
 
