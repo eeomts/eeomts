@@ -5,7 +5,10 @@
 ###
 
 
-<h6 align="center">Back-end Web developer</h6>
+<h6 align="center">Sou desenvolvedor Web Back-End, estudante de Sistemas de Informação na UFU e trabalho com desenvolvimento web, tenho experiência na área há cerca de 2 anos.
+Atuo principalmente com PHP, criando e mantendo aplicações usando Laravel e CakePHP, além de trabalhar bastante com MySQL no dia a dia. Já desenvolvi sistemas de autenticação, APIs, painéis administrativos e funcionalidades focadas em resolver problemas reais.
+Tenho boa base em JavaScript, jQuery, Bootstrap e CSS, o que me permite transitar bem entre back-end e front-end quando necessário. Utilizo Git constantemente no fluxo de desenvolvimento, tanto para controle de versões quanto para trabalho em equipe, e npm para gerenciamento de dependências.
+Gosto de entender como as coisas funcionam por trás, escrever código organizado e sempre buscar evoluir tecnicamente como desenvolvedor.</h6>
 
 ###
 
