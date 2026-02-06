@@ -1,9 +1,10 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&text=I'm%20Mateus&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=I'm%20Mateus&fontSize=70&fontColor=EDEDED&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=0A1947"  />
 </div>
 
 ###
 
+<br clear="both">
 
 <h6 align="center">Back-end Web developer</h6>
 
@@ -26,7 +27,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
-  <img src="./imgs/tailwind.png" height="40" alt="tailwindcss logo"  />
+  <img src="imgs/tailwind.png" height="30" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
   <img width="12" />
@@ -42,12 +43,6 @@
 ###
 
 <div align="center">
-  <a href="themtss" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-  <a href="mateus.moreira1@ufu.br" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
-  </a>
   <a href="https://www.instagram.com/olvmateuss" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
@@ -56,7 +51,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=eeomts.eeomts&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=eeomts.eeomts&left_color=blue"  />
 </div>
 
 ###
@@ -65,5 +60,10 @@
 
 <img src="https://raw.githubusercontent.com/eeomts/eeomts/output/snake.svg" alt="Snake animation" />
 
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=0A1947"  />
+</div>
 
 ###
