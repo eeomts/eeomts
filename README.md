@@ -23,6 +23,7 @@ Utilizo <strong>Git</strong> constantemente no fluxo de desenvolvimento, tanto p
 Gosto de entender como as coisas funcionam por trás, escrever código organizado e buscar evoluir tecnicamente como desenvolvedor.
 </p>
 </div>
+
 ###
 
 <br clear="both">
