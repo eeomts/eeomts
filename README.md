@@ -9,7 +9,7 @@
 <div align="left">
 <h3>👋 Sobre mim:</h3>
 <p>
-Sou desenvolvedor <strong>Web Back-End</strong>, estudante de <strong>Sistemas de Informação na UFU</strong> e trabalho com desenvolvimento web há cerca de <strong>2 anos</strong>.
+Sou desenvolvedor <strong>Web Back-End</strong>, estudante de <strong>Sistemas de Informação na UFU</strong> e trabalho com desenvolvimento web há quase <strong>2 anos</strong>.
 </p>
 <p align="left">
 Atuo principalmente com <strong>PHP</strong>, criando e mantendo aplicações com <strong>Laravel</strong> e <strong>CakePHP</strong>, além de trabalhar bastante com <strong>MySQL</strong> no dia a dia.
