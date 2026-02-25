@@ -7,7 +7,7 @@
 <br clear="both">
 
 <div align="left">
-<h3>👋 Sobre mim:</h3>
+<h3>👋 Sobre mim: </h3>
 <p>
 Sou desenvolvedor <strong>Web Back-End</strong>, estudante de <strong>Sistemas de Informação na UFU</strong> e trabalho com desenvolvimento web há quase <strong>2 anos</strong>.
 </p>
