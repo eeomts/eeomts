@@ -72,8 +72,6 @@ Gosto de entender como as coisas funcionam por trás, escrever código organizad
 
 ###
 
-<br clear="both">
-
 ###
 
 <div>
