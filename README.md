@@ -4,8 +4,6 @@
 
 ###
 
-<br clear="both">
-
 <div align="left">
 <h3>👋 Sobre mim: </h3>
 <p>
