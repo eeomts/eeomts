@@ -4,28 +4,6 @@
 
 ###
 
-<div align="left">
-<h3>👋 Sobre mim: </h3>
-<p>
-Sou desenvolvedor <strong>Web Back-End</strong>, estudante de <strong>Sistemas de Informação na UFU</strong> e trabalho com desenvolvimento web há quase <strong>2 anos</strong>.
-</p>
-<p align="left">
-Atuo principalmente com <strong>PHP</strong>, criando e mantendo aplicações com <strong>Laravel</strong> e <strong>CakePHP</strong>, além de trabalhar bastante com <strong>MySQL</strong> no dia a dia.
-Já desenvolvi sistemas de autenticação, <strong>APIs</strong>, painéis administrativos e funcionalidades focadas em resolver problemas reais.
-</p>
-<p align="left" >
-Tenho boa base em <strong>JavaScript</strong>, <strong>jQuery</strong>, <strong>Bootstrap</strong> e <strong>CSS</strong>, o que me permite transitar bem entre back-end e front-end quando necessário.
-Utilizo <strong>Git</strong> constantemente no fluxo de desenvolvimento, tanto para controle de versões quanto para trabalho em equipe, e <strong>npm</strong> para gerenciamento de dependências.
-</p>
-<p align="left">
-Gosto de entender como as coisas funcionam por trás, escrever código organizado e buscar evoluir tecnicamente como desenvolvedor.
-  
-</p>
-</div>
-
-###
-
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
@@ -53,20 +31,6 @@ Gosto de entender como as coisas funcionam por trás, escrever código organizad
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="40" alt="composer logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://www.instagram.com/olvmateuss" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=eeomts.eeomts&left_color=blue"  />
 </div>
 
 ###
